@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @eliotnew
-- 👀 I’m interested in a sweet career!
-- 🌱 I’m currently learning as much as i can ...
-- 💞️ I’m looking to collaborate on classwork...
-- 📫 How to reach me email eliot.new@students.plymouth.ac.uk ...
-✌️🤠
+- I have just graduated with a first class Bsc Hons degree in Computer Science (Software Engineering) from the University of Plymouth 
+- I am looking to launch my career at a graduate level role
 
 <!---
 eliotnew/eliotnew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
